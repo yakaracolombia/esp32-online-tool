@@ -22,9 +22,13 @@ Para grabar tu firmware para **"NINTENDO SWITCH"**, asegurate de conectar tu ESP
   
 
 
+#
+#
+##
 
+###
+#### Como usar este tipo de programacion?
 
-#### Configuring WiFi
 
 para entender el uso de esta pagina debes seguir [este tutorial](https://www.youtube.com) .
 
