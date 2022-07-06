@@ -1,5 +1,5 @@
 {
-  "name": "Clockwise",
+  "name": "arcade-esp32",
   "builds": [
     {
       "chipFamily": "ESP32",

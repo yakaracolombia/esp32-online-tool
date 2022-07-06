@@ -9,7 +9,7 @@ Para grabar tu firmware para **"COMPATIBILIDAD BLUERETRO"**, asegurate de conect
 
 
 <script type="module" src="install-button.js?module"></script>
-<esp-web-install-button manifest="static/firmware_build/v1/manifest.json"></esp-web-install-button>
+<esp-web-install-button manifest="firmware/firmware_build/arcade-esp32/manifest.json"></esp-web-install-button>
 
 
 <img src="imagenes/line.png"
@@ -21,7 +21,7 @@ Para grabar tu firmware para **"NINTENDO SWITCH"**, asegurate de conectar tu ESP
 
 
 <script type="module" src="https://unpkg.com/esp-web-tools@3.4.2/dist/web/install-button.js?module"></script>
-<esp-web-install-button manifest="static/firmware_build/v1/manifest.json"></esp-web-install-button>
+<esp-web-install-button manifest="firmware/firmware_build/arcade-switch/manifest.json"></esp-web-install-button>
   
 
 
