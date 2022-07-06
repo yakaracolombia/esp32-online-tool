@@ -14,7 +14,7 @@ height="5">
 
 #### CONTROL TIPO ARCADE ESP32?
 
-<img src="imagenes/arcade.png"
+<img src="imagenes/arcade-lite.png"
 height="200">
 
 
