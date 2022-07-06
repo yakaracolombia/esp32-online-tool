@@ -14,9 +14,9 @@ To upload the firmware, connect your ESP32 board in the USB port and use the P-S
 To upload the firmware, connect your ESP32 board in the USB port and use the P-Switch!
 
 
-    <h1>ESP-Web-Tool-Test</h1>
-    <script type="module" src="https://unpkg.com/esp-web-tools@3.4.2/dist/web/install-button.js?module"></script>
-    <esp-web-install-button manifest="static/firmware_build/v1/manifest.json"></esp-web-install-button>
+<h1>ESP-Web-Tool-Test</h1>
+<script type="module" src="https://unpkg.com/esp-web-tools@3.4.2/dist/web/install-button.js?module"></script>
+<esp-web-install-button manifest="static/firmware_build/v1/manifest.json"></esp-web-install-button>
   
 
 
