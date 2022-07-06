@@ -1,5 +1,5 @@
 {
-  "name": "arcade-esp32",
+  "name": "arcade-blueretro",
   "builds": [
     {
       "chipFamily": "ESP32",
