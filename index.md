@@ -1,24 +1,7 @@
 In order to use this web app, follow [this](arcade.md) tutorial.
 
-### arcade esp32
-To upload the firmware, connect your ESP32 board in the USB port and use the P-Switch!
-
-<esp-web-install-button manifest="static/firmware_build/v1/manifest.json">
-  
-  <input class="btn" type="button" slot="activate"/>
-  <span slot="unsupported">Ah snap, your browser does not support WebSerial API! If you are using a mobile browser, this is expected. Please, move to the desktop version.</span>
-  <span slot="not-allowed">Ah snap, you are not allowed to use this on HTTP!</span>
-</esp-web-install-button>
-
-### arcade esp32
-To upload the firmware, connect your ESP32 board in the USB port and use the P-Switch!
-
-
-<h1>ESP-Web-Tool-Test</h1>
-<script type="module" src="https://unpkg.com/esp-web-tools@3.4.2/dist/web/install-button.js?module"></script>
-<esp-web-install-button manifest="static/firmware_build/v1/manifest.json"></esp-web-install-button>
-  
-
+<img src="ESP.png"
+height="300">
 
 
 
