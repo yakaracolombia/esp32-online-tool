@@ -12,6 +12,9 @@ Para grabar tu firmware para **"COMPATIBILIDAD BLUERETRO"**, asegurate de conect
 <esp-web-install-button manifest="firmware/firmware_build/arcade-esp32/manifest.json"></esp-web-install-button>
 
 
+
+
+
 <img src="imagenes/line.png"
 height="5">
 
@@ -25,9 +28,10 @@ Para grabar tu firmware para **"NINTENDO SWITCH"**, asegurate de conectar tu ESP
   
 
 
-#
-#
-##
+
+
+
+
 
 ###
 #### Como usar este tipo de programacion?
