@@ -12,6 +12,9 @@ Para grabar tu firmware para **"COMPATIBILIDAD BLUERETRO"**, asegurate de conect
 <esp-web-install-button manifest="static/firmware_build/v1/manifest.json"></esp-web-install-button>
 
 
+<img src="imagenes/line.png"
+height="5">
+
 
 ### arcade esp32 para **"NINTENDO SWITCH"** 
 Para grabar tu firmware para **"NINTENDO SWITCH"**, asegurate de conectar tu ESP32 via USB y presiona el siguiente boton.
