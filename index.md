@@ -1,7 +1,7 @@
 
 
 <img src="imagenes/ESP.png"
-height="400">
+height="300">
 
 
 

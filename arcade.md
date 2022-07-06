@@ -2,7 +2,7 @@
 volver al [INICIO ](index.md).
 
 <img src="imagenes/arcade.png"
-height="400">
+height="300">
 
 ### arcade esp32 para **"BLUERETRO"** 
 Para grabar tu firmware para **"COMPATIBILIDAD BLUERETRO"**, asegurate de conectar tu ESP32 via USB y presiona el siguiente boton.
