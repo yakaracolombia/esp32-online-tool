@@ -12,7 +12,6 @@ Para grabar tu firmware para **"COMPATIBILIDAD BLUERETRO"**, asegurate de conect
 <esp-web-install-button manifest="firmware/firmware_build/arcade-blueretro/manifest.json"></esp-web-install-button>
 
 
-####   
 
 
 <img src="imagenes/line.png"
@@ -22,7 +21,7 @@ height="5">
 
 
 
-####   
+  
 #### tienes dudas de como usar este tipo de programacion?
 
 
