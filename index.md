@@ -12,7 +12,7 @@ El ESP32 es un dispositivo que nos facilita la implementacion de distintos tipos
 <img src="imagenes/line.png"
 height="5">
 
-#### CONTROL TIPO ARCADE ESP32?
+#### CONTROL TIPO ARCADE ESP32 para BLUERETRO?
 
 <img src="imagenes/arcade-lite.png"
 height="200">
@@ -22,6 +22,5 @@ En este primer proyecto crearemos un control
 tipo arcade compatible con todos nuestros proyectos de BLUERETRO
 [que puedes ver desde este enlace](https://youtube.com/playlist?list=PLU8MAt3y6vdfMGQw_JkkuO-4nwxkcDMNV)
 
-ademas de un segundo payload disponible aqui mismo para hacer esta palanca de arcade totlamente compatible con la Nintendo Switch
 
 [CLIC AQUI PARA PROGRAMAR EL CONTROL TIPO ARCADE ESP32 ](arcade.md).
