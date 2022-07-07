@@ -19,8 +19,8 @@ height="200">
 
 
 En este primer proyecto crearemos un control
-tipo arcade compatible con todos nuestros proyectos de BLUERETRO
-[que puedes ver desde este enlace](https://youtube.com/playlist?list=PLU8MAt3y6vdfMGQw_JkkuO-4nwxkcDMNV)
+tipo arcade compatible con todos nuestros proyectos de 
+[BLUERETRO](https://youtube.com/playlist?list=PLU8MAt3y6vdfMGQw_JkkuO-4nwxkcDMNV)
 
 
 [CLIC AQUI PARA PROGRAMAR EL CONTROL TIPO ARCADE ESP32 ](arcade.md).
