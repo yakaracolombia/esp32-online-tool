@@ -27,4 +27,7 @@ height="5">
 
 para entender el uso de esta pagina debes seguir [este tutorial](https://www.youtube.com) .
 
+<img src="imagenes/diagrama-arcade-blueretro.jpg"
+height="300">
+
 
