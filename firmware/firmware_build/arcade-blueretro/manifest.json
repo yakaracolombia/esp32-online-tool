@@ -1,0 +1,14 @@
+{
+  "name": "arcade-blueretro",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "improv": false,
+      "parts": [
+        { "path": "bootloader.bin", "offset": 4096 },
+        { "path": "ble-gamepad.bin", "offset": 65536 },
+        { "path": "partition-table.bin", "offset": 32768 }
+      ]
+    }
+  ]
+}
