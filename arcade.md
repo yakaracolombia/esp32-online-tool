@@ -35,6 +35,13 @@ height="5">
 
 para entender el uso de esta pagina debes seguir [este tutorial](https://www.youtube.com) .
 
+<img src="imagenes/line.png"
+height="5">
+
+### NO TE FUNCIONA? 
+No creas que algo salio mal ni pierdas tiempo reprogramando o cambiando tus soldaduras, incluso a mi en las 1001 prubeas me sucedio y es tan facil de solucionar como actualizar [BLUERETRO](https://github.com/darthcloud/BlueRetro) de tu consola, para **implementar la compatibilidad con teclado bluetooth** que usa este proyecto
+
+
 <img src="imagenes/diagrama-arcade-blueretro.jpg"
 height="300">
 
