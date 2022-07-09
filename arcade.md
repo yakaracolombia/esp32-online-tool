@@ -4,8 +4,16 @@ volver al [INICIO ](index.md).
 <img src="imagenes/arcade.png"
 height="300">
 
+
+#### un poco de historia?
+
+Esta es la primera vez que escribo codigo propio y que mejor manera que implementarlo a la creacion de nuestro primer control tipo arcade para nuestras [BLUERETRO](https://github.com/darthcloud/BlueRetro) y muy pronto para **nintendo switch**
+gracias a la [compatibilidad nativa con teclado bluetooth](https://www.youtube.com/watch?v=Y1S4s3QiVUM&t=192sen) en las opciones de **blueretro** he creado este proyecto unicamente comprendiendo la libreria de [ESP32 BLE Keyboard library](https://github.com/T-vK/ESP32-BLE-Keyboard)
+y esto nos permitira crear a futuro todo tipo de controles, convirttiendo directamente nuestros controles clasicos en bluetooth, asi que dejen volar su imaginacion mientras hacemos nuestro primer proyecto.
+
+
 ### arcade esp32 para **"BLUERETRO"** 
-Para grabar tu firmware para **"COMPATIBILIDAD BLUERETRO"**, asegurate de conectar tu ESP32 via USB y presiona el siguiente boton.
+Para grabar tu firmware para **"COMPATIBILIDAD BLUERETRO"**, asegurate de conectar tu ESP32 via USB y presiona el siguiente boton. recuerda usar **CHROME** para ver este boton
 
 
 <script type="module" src="install-button.js?module"></script>

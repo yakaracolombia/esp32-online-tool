@@ -12,7 +12,7 @@ El ESP32 es un dispositivo que nos facilita la implementacion de distintos tipos
 <img src="imagenes/line.png"
 height="5">
 
-#### CONTROL TIPO ARCADE ESP32 para BLUERETRO?
+#### CONTROL TIPO ARCADE ESP32 para BLUERETRO y algo mas?
 
 <img src="imagenes/arcade-lite.png"
 height="200">
