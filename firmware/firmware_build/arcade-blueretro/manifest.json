@@ -5,9 +5,9 @@
       "chipFamily": "ESP32",
       "improv": false,
       "parts": [
-        { "path": "bootloader.bin", "offset": 4096 },
-        { "path": "ble-gamepad.bin", "offset": 65536 },
-        { "path": "partition-table.bin", "offset": 32768 }
+        { "path": "YKR_KEY-PAD_BLUERETRO.ino.bootloader.bin", "offset": 4096 },
+        { "path": "YKR_KEY-PAD_BLUERETRO.ino.bin", "offset": 65536 },
+        { "path": "YKR_KEY-PAD_BLUERETRO.ino.partitions.bin", "offset": 32768 }
       ]
     }
   ]
