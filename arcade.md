@@ -33,7 +33,7 @@ height="5">
 #### tienes dudas de como usar este tipo de programacion?
 
 
-para entender el uso de esta pagina debes seguir [este tutorial](https://www.youtube.com) .
+para entender el uso de esta pagina debes seguir [este tutorial](https://youtu.be/NLdcXWorapA) .
 
 <img src="imagenes/line.png"
 height="5">
@@ -44,5 +44,6 @@ No creas que algo salio mal ni pierdas tiempo reprogramando o cambiando tus sold
 
 <img src="imagenes/diagrama-arcade-blueretro.jpg"
 height="300">
-
+### DIAGRAMAS
+los diagramas en alta definicion puedes descargarlo [desde este enlace](https://www.mundoyakara.com/2022/07/hacer-control-arcade-bluetooth.html)
 
