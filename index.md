@@ -24,4 +24,6 @@ height="200">
 En este primer proyecto crearemos un control
 tipo arcade compatible con todos nuestros proyectos de 
 **BLUERETRO** Y un firmware alternativo para usar con cualquie **NINTENDO SWITCH**
+
+
 [CLIC AQUI PARA PROGRAMAR EL CONTROL TIPO ARCADE ESP32 ](arcade.md).
