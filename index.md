@@ -15,15 +15,13 @@ Y como tengo pensado implementar una gran saga de videos donde aprenderemos a cr
 <img src="imagenes/line.png"
 height="5">
 
-#### CONTROL TIPO ARCADE ESP32 para BLUERETRO y algo mas?
+#### CONTROL TIPO ARCADE ESP32 para BLUERETRO y NINTENDO SWITCH!
 
-<img src="imagenes/arcade-lite.png"
+<img src="imagenes/arcade.png"
 height="200">
 
 
 En este primer proyecto crearemos un control
 tipo arcade compatible con todos nuestros proyectos de 
-[BLUERETRO](https://youtube.com/playlist?list=PLU8MAt3y6vdfMGQw_JkkuO-4nwxkcDMNV)
-
-
+**BLUERETRO** Y un firmware alternativo para usar con cualquie **NINTENDO SWITCH**
 [CLIC AQUI PARA PROGRAMAR EL CONTROL TIPO ARCADE ESP32 ](arcade.md).
