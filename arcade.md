@@ -2,7 +2,7 @@
 volver al [INICIO ](index.md).
 
 <img src="imagenes/arcade.png"
-height="300">
+height="250">
 
 
 #### un poco de historia?
