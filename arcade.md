@@ -57,10 +57,11 @@ height="5">
 
 ### NO TE FUNCIONA? 
 No creas que algo salio mal ni pierdas tiempo reprogramando o cambiando tus soldaduras, incluso a mi en las 1001 prubeas me sucedio y es tan facil de solucionar como actualizar [BLUERETRO](https://github.com/darthcloud/BlueRetro) de tu consola, para **implementar la compatibilidad con teclado bluetooth** que usa este proyecto
-
+<img src="imagenes/line.png"
+height="5">
+### DIAGRAMAS UNIVERSAL PARA BLUERETRO Y NINTENDO SWICTH, solo cambia el firmware que le instalas
 
 <img src="imagenes/diagrama-arcade-blueretro.jpg"
 height="300">
-### DIAGRAMAS UNIVERSAL PARA BLUERETRO Y NINTENDO SWICTH, solo cambia el firmware que le instalas
 los diagramas en alta definicion puedes descargarlo [desde este enlace](https://www.mundoyakara.com/2022/07/hacer-control-arcade-bluetooth.html)
 
