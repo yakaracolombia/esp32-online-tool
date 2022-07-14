@@ -1,5 +1,5 @@
 {
-  "name": "arcade-switch",
+  "name": "NES-ONLINE-GAMEPAD",
   "builds": [
     {
       "chipFamily": "ESP32",
