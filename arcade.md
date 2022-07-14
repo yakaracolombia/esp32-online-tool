@@ -17,12 +17,13 @@ Para grabar tu firmware para **"COMPATIBILIDAD BLUERETRO"**, asegurate de conect
 
 <script type="module" src="install-button.js?module"></script>
 <esp-web-install-button manifest="firmware/firmware_build/arcade-blueretro/manifest.json"></esp-web-install-button>
-### informacion del firmware **"BLUERETRO"**
-recuerda que el control de arcade **compatible con blueretro** funciona como un **teclado bluetooth** y que gracias a la [compatibilidad nativa con teclado bluetooth](https://www.youtube.com/watch?v=Y1S4s3QiVUM&t=192sen) en las opciones de **blueretro** he creado este proyecto unicamente comprendiendo la libreria de [ESP32 BLE Keyboard library](https://github.com/T-vK/ESP32-BLE-Keyboard) asi que es totalmente compatible con **windows, mac, android, raspberry, tv box, android tv, etc**. y tu mismo puedes mapear los botones a usar segun el dispositivo al que lo conectes, el mapeo de botones y su asignacion se encuentran disponibles en el diagrama al final de la pagina, que puedes descargar en alta resolucion desde [este enlace](https://www.mundoyakara.com/2022/07/hacer-control-arcade-bluetooth.html) por defecto en tus consolas blueretro, todos los botones se mapearan automaticamente, menoz zl y zr estos debes asignarlos tu segun la consola o funcion, por ejemplo habilitarlos en ps2 como L2 Y R2 todo esto se hace desde la pagina de [BLUERETRO.io](https://blueretro.io/)
-
 
 <img src="imagenes/line.png"
 height="5">
+
+### informacion del firmware **"BLUERETRO"**
+recuerda que el control de arcade **compatible con blueretro** funciona como un **teclado bluetooth** y que gracias a la [compatibilidad nativa con teclado bluetooth](https://www.youtube.com/watch?v=Y1S4s3QiVUM&t=192sen) en las opciones de **blueretro** he creado este proyecto unicamente comprendiendo la libreria de [ESP32 BLE Keyboard library](https://github.com/T-vK/ESP32-BLE-Keyboard) asi que es totalmente compatible con **windows, mac, android, raspberry, tv box, android tv, etc**. y tu mismo puedes mapear los botones a usar segun el dispositivo al que lo conectes, el mapeo de botones y su asignacion se encuentran disponibles en el diagrama al final de la pagina, que puedes descargar en alta resolucion desde [este enlace](https://www.mundoyakara.com/2022/07/hacer-control-arcade-bluetooth.html) por defecto en tus consolas blueretro, todos los botones se mapearan automaticamente, menoz zl y zr estos debes asignarlos tu segun la consola o funcion, por ejemplo habilitarlos en ps2 como L2 Y R2 todo esto se hace desde la pagina de [BLUERETRO.io](https://blueretro.io/)
+
 
 
 <img src="imagenes/line.png"
@@ -63,5 +64,5 @@ height="5">
 
 <img src="imagenes/diagrama-arcade-blueretro.jpg"
 height="300">
-los diagramas en alta definicion puedes descargarlo [desde este enlace](https://www.mundoyakara.com/2022/07/hacer-control-arcade-bluetooth.html)
+los diagramas en alta definicion puedes descargarlos [desde este enlace](https://www.mundoyakara.com/2022/07/hacer-control-arcade-bluetooth.html)
 
