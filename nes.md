@@ -15,7 +15,7 @@ Para grabar tu firmware para **"GAMEPAD TIPO NES CON COMPATIBILIDAD CON NINTENDO
 
 
 <script type="module" src="install-button.js?module"></script>
-<esp-web-install-button manifest="firmware/firmware_build/arcade-nes/manifest.json"></esp-web-install-button>
+<esp-web-install-button manifest="firmware/firmware_build/nes-switch/manifest.json"></esp-web-install-button>
 
 <img src="imagenes/line.png"
 height="5">
