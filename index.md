@@ -26,4 +26,23 @@ tipo arcade compatible con todos nuestros proyectos de
 **BLUERETRO** Y un firmware alternativo para usar con cualquie **NINTENDO SWITCH**
 
 
+
 [CLIC AQUI PARA PROGRAMAR EL CONTROL TIPO ARCADE ESP32 ](arcade.md).
+
+<img src="imagenes/line.png"
+height="5">
+<img src="imagenes/line.png"
+height="5">
+#### CONTROL TIPO NES ONLINE PARA: NINTENDO SWITCH!
+
+<img src="imagenes/nes.png"
+height="200">
+
+
+En este psegundo proyecto crearemos un control
+NES ONLINE totalmente compatible con todas las 
+**NINTENDO SWITCH** Incluyendo sonidos y fondos distintivos en la aplicacion oficial **NES ONLINE**
+
+
+
+[CLIC AQUI PARA PROGRAMAR EL CONTROL NES ONLINE esp32 DIY ](nes.md).
