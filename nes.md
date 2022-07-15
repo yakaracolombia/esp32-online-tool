@@ -48,5 +48,5 @@ height="300">
 <img src="imagenes/diagrama-nes-lite.jpg"
 height="300">
 
-los diagramas en alta definicion puedes descargarlos [desde este enlace](https://www.mundoyakara.com/2022/07/hacer-control-arcade-bluetooth.html)
+los diagramas en alta definicion puedes descargarlos [desde este enlace](https://www.mundoyakara.com/2022/07/como-hacer-control-nes-classic-edition.html)
 
