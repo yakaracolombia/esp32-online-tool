@@ -48,10 +48,10 @@ height="5">
 
 
   
-#### tienes dudas de como usar este tipo de programacion?
+#### tienes dudas de como HACER ESTE PROJECTO?
 
 
-para entender el uso de esta pagina debes seguir [este tutorial](https://youtu.be/NLdcXWorapA) .
+Este proyecto viene acompañado de un [video tutorial completo](https://youtu.be/NLdcXWorapA) no olvides verlo .
 
 <img src="imagenes/line.png"
 height="5">
