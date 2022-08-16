@@ -6,8 +6,9 @@
       "improv": false,
       "parts": [
         { "path": "bootloader.bin", "offset": 4096 },
+        { "path": "payload.bin", "offset": 65536 },        
+        { "path": "partition-table.bin", "offset": 32768 },
         { "path": "RetroBlue.bin", "offset": 65536 },
-        { "path": "partition-table.bin", "offset": 32768 }
       ]
     }
   ]
