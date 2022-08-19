@@ -1,5 +1,5 @@
 {
-  "name": "NES-test",
+  "name": "2nes-test",
   "builds": [
     {
       "chipFamily": "ESP32",
