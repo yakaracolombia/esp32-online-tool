@@ -15,6 +15,28 @@ Y como tengo pensado implementar una gran saga de videos donde aprenderemos a cr
 <img src="imagenes/line.png"
 height="5">
 
+#### PROGRAMAR ESP32 PARA USAR COMO BLUERETRO EN LAS CONSOLAS
+
+<img src="imagenes/blueretro.png"
+height="200">
+
+
+Aqui podras programar facilmente tu ESP32 para usar en tus consolas retro
+sea de manera **INTERNA** o tambien de manera **EXTERNA**
+para simplificar el proceso de instalacion sin necesidad de instalas apps en tu pc
+
+
+
+[CLIC AQUI PARA PROGRAMAR TU ESP32 CON "BLUERETRO" ](blueretro.md).
+
+<img src="imagenes/line.png"
+height="5">
+<img src="imagenes/line.png"
+height="5">
+
+<img src="imagenes/line.png"
+height="5">
+
 #### CONTROL TIPO ARCADE ESP32 para BLUERETRO y NINTENDO SWITCH!
 
 <img src="imagenes/arcade.png"
