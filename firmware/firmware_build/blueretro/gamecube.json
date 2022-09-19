@@ -1,13 +1,13 @@
 {
-  "name": "4nes-test",
+  "name": "Gamecube",
   "builds": [
     {
       "chipFamily": "ESP32",
       "improv": false,
       "parts": [
         { "path": "bootloader.bin", "offset": 4096 },
-        { "path": "nes.bin", "offset": 65536 },
-        { "path": "partitions_singleapp.bin", "offset": 32768 }
+        { "path": "BlueRetro_gc_external.bin", "offset": 65536 },
+        { "path": "partition-table.bin", "offset": 32768 }
       ]
     }
   ]

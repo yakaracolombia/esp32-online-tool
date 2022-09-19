@@ -1,13 +1,13 @@
 {
-  "name": "4nes-test",
+  "name": "psx, ps1, ps2",
   "builds": [
     {
       "chipFamily": "ESP32",
       "improv": false,
       "parts": [
         { "path": "bootloader.bin", "offset": 4096 },
-        { "path": "nes.bin", "offset": 65536 },
-        { "path": "partitions_singleapp.bin", "offset": 32768 }
+        { "path": "BlueRetro_psx_external.bin", "offset": 65536 },
+        { "path": "partition-table.bin", "offset": 32768 }
       ]
     }
   ]
