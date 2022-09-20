@@ -3,7 +3,7 @@
   "builds": [
     {
       "chipFamily": "ESP32",
-      "improv": false,
+      "improv": true,
       "parts": [
         { "path": "bootloader.bin", "offset": 4096 },
         { "path": "BlueRetro_n64_external.bin", "offset": 65536 },
