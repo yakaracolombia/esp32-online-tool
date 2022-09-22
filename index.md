@@ -55,7 +55,7 @@ tipo arcade compatible con todos nuestros proyectos de
 height="5">
 <img src="imagenes/line.png"
 height="5">
-#### CONTROL TIPO NES ONLINE PARA: NINTENDO SWITCH!
+#### CONTROL TIPO NES ONLINE PARA: NINTENDO SWITCH y BLUERETRO!
 
 <img src="imagenes/nes.png"
 height="200">
@@ -72,7 +72,7 @@ NES ONLINE totalmente compatible con todas las
 height="5">
 <img src="imagenes/line.png"
 height="5">
-#### CONTROL TIPO NES ONLINE PARA: NINTENDO SWITCH!
+#### CONTROL TIPO SNES ONLINE PARA: NINTENDO SWITCH y BLUERETRO!
 
 <img src="imagenes/snes.png"
 height="200">
