@@ -30,7 +30,7 @@ adicionalmente se agrego la funcion de botones combo para evitar solar dos boton
 <img src="imagenes/line.png"
 height="5">
 
-### NES ONLINE esp32 DIY para **"BLUERETRO"** 
+### SNES BLUETOOTH esp32 DIY para **"BLUERETRO"** 
 <img src="imagenes/line.png"
 height="5">
 Para grabar tu firmware para **"GAMEPAD TIPO SNES CON COMPATIBILIDAD CON BLUERETRO"**, asegurate de conectar tu ESP32 via USB y presiona el siguiente boton. recuerda usar **CHROME** para ver este boton
