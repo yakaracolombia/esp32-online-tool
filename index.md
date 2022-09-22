@@ -61,10 +61,27 @@ height="5">
 height="200">
 
 
-En este psegundo proyecto crearemos un control
+En este proyecto crearemos un control
 NES ONLINE totalmente compatible con todas las 
 **NINTENDO SWITCH** Incluyendo sonidos y fondos distintivos en la aplicacion oficial **NES ONLINE**
 
 
 
-[CLIC AQUI PARA PROGRAMAR EL CONTROL NES ONLINE esp32 DIY ](nes.md).
+[CLIC AQUI PARA PROGRAMAR EL CONTROL SNES ONLINE esp32 DIY ](nes.md).
+<img src="imagenes/line.png"
+height="5">
+<img src="imagenes/line.png"
+height="5">
+#### CONTROL TIPO NES ONLINE PARA: NINTENDO SWITCH!
+
+<img src="imagenes/snes.png"
+height="200">
+
+
+En este nuevo proyecto crearemos un control
+SNES ONLINE totalmente compatible con todas las 
+**NINTENDO SWITCH** Incluyendo sonidos y fondos distintivos en la aplicacion oficial **SNES ONLINE**
+
+
+
+[CLIC AQUI PARA PROGRAMAR EL CONTROL NES ONLINE esp32 DIY ](snes.md).
