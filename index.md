@@ -67,7 +67,7 @@ NES ONLINE totalmente compatible con todas las
 
 
 
-[CLIC AQUI PARA PROGRAMAR EL CONTROL SNES ONLINE esp32 DIY ](nes.md).
+[CLIC AQUI PARA PROGRAMAR EL CONTROL NES ONLINE y BLUERETRO! esp32 DIY ](nes.md).
 <img src="imagenes/line.png"
 height="5">
 <img src="imagenes/line.png"
@@ -84,4 +84,4 @@ SNES ONLINE totalmente compatible con todas las
 
 
 
-[CLIC AQUI PARA PROGRAMAR EL CONTROL NES ONLINE esp32 DIY ](snes.md).
+[CLIC AQUI PARA PROGRAMAR EL CONTROL SNES ONLINE y BLUERETRO! esp32 DIY ](snes.md).
