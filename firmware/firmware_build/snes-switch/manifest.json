@@ -1,5 +1,5 @@
 {
-  "name": "SNES-ONLINE-GAMEPAD",
+  "name": "SNES-ONLINE-SWITCH",
   "builds": [
     {
       "chipFamily": "ESP32",
