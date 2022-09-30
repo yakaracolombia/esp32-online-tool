@@ -101,4 +101,4 @@ TIPO genesis / megadrive ONLINE totalmente compatible con todas las
 
 
 
-[CLIC AQUI PARA PROGRAMAR EL CONTROL SNES ONLINE y BLUERETRO! esp32 DIY ](genesis.md).
+[CLIC AQUI PARA PROGRAMAR EL CONTROL genesis / megadrive  ONLINE y BLUERETRO! esp32 DIY ](genesis.md).
