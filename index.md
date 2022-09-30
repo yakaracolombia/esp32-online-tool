@@ -84,4 +84,21 @@ SNES ONLINE totalmente compatible con todas las
 
 
 
-[CLIC AQUI PARA PROGRAMAR EL CONTROL SNES ONLINE y BLUERETRO! esp32 DIY ](snes.md).
+[CLIC AQUI PARA PROGRAMAR EL CONTROL genesis megadrive ONLINE y BLUERETRO! esp32 DIY ](snes.md).
+<img src="imagenes/line.png"
+height="5">
+<img src="imagenes/line.png"
+height="5">
+#### CONTROL TIPO genesis / megadrive ONLINE PARA: NINTENDO SWITCH y BLUERETRO!
+
+<img src="imagenes/genesis.png"
+height="200">
+
+
+En este nuevo proyecto crearemos un control
+TIPO genesis / megadrive ONLINE totalmente compatible con todas las 
+**NINTENDO SWITCH**  en la aplicacion oficial **SEGA GENESIS ONLINE**
+
+
+
+[CLIC AQUI PARA PROGRAMAR EL CONTROL SNES ONLINE y BLUERETRO! esp32 DIY ](genesis.md).

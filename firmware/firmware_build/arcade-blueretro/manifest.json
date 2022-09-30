@@ -1,5 +1,5 @@
 {
-  "name": "arcade-blueretro",
+  "name": "BLUETOOTH-blueretro",
   "builds": [
     {
       "chipFamily": "ESP32",
