@@ -11,7 +11,7 @@ height="5">
 ### genesis / megadrive ONLINE esp32 DIY para **"NINTENDO SWITCH"** 
 <img src="imagenes/line.png"
 height="5">
-Para grabar tu firmware para **"GAMEPAD TIPO SNES CON COMPATIBILIDAD CON NINTENDO SWITCH"**, asegurate de conectar tu ESP32 via USB y presiona el siguiente boton. recuerda usar **CHROME** para ver este boton
+Para grabar tu firmware para **"GAMEPAD TIPO genesis / megadrive  CON COMPATIBILIDAD CON NINTENDO SWITCH"**, asegurate de conectar tu ESP32 via USB y presiona el siguiente boton. recuerda usar **CHROME** para ver este boton
 
 
 <script type="module" src="install-button.js?module"></script>
