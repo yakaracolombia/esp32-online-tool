@@ -21,9 +21,9 @@ Para grabar tu firmware para **"GAMEPAD TIPO SNES CON COMPATIBILIDAD CON NINTEND
 height="5">
 
 ### informacion del firmware **"CONTROL genesis / megadrive  ONLINE esp32 DIY"**
-Basado en una **Release no oficial** modificada y remapeada en su totalidad por mi del [ESP-IDF RetroBlue Bluetooth Gamepad AP](https://github.com/mitchellcairns/RetroBlue-ESP32) proyecto original de [mitchellcairns](https://github.com/mitchellcairns) que nos permite utilizar nuestro **esp32 como un control SNES de nintendo switch**, que no hace uso de NIMBLE y por ese motivo aun no es compatible con blueretro, pero si con **nintendo swicth normal, nintendo switch lite y nintendo switch oled**,
+Basado en una **Release no oficial** modificada y remapeada en su totalidad por mi del [ESP-IDF RetroBlue Bluetooth Gamepad AP](https://github.com/mitchellcairns/RetroBlue-ESP32) proyecto original de [mitchellcairns](https://github.com/mitchellcairns) que nos permite utilizar nuestro **esp32 como un control genesis / megadrive  de nintendo switch**, que no hace uso de NIMBLE y por ese motivo aun no es compatible con blueretro, pero si con **nintendo swicth normal, nintendo switch lite y nintendo switch oled**,
 los botones y sus mapeos **son exactamente los mismos del diagrama**
-adicionalmente se agrego la funcion de botones combo para evitar solar dos botones adicionales gracias a
+adicionalmente se agrego la funcion de botones combo para evitar solar botones adicionales gracias a
 [@eolvera85](https://twitter.com/eolvera85) idea implementada inicialmente por [XGAMES VIDEOJUEGOS](https://www.youtube.com/c/XGAMESVIDEOJUEGOS) quienes amablemente compartieron su implementacion conmigo.
 
 
