@@ -64,5 +64,5 @@ height="5">
 <img src="imagenes/diagrama-genesis-lite.jpg"
 height="300">
 
-los diagramas en alta definicion puedes descargarlos [desde este enlace](https://www.mundoyakara.com/2022/07/como-hacer-control-nes-classic-edition.html)
+los diagramas en alta definicion puedes descargarlos [desde este enlace](https://www.mundoyakara.com/2022/10/converita-control-bluetooth-sega.html)
 
