@@ -1,5 +1,5 @@
 {
-  "name": "n64-universal-JPVZ",
+  "name": "n64-universal-JPVZ v1.1",
   "builds": [
     {
       "chipFamily": "ESP32",
