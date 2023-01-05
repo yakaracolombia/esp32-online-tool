@@ -1,5 +1,5 @@
 {
-  "name": "NES-universal-JPVZ v1.2",
+  "name": "NES-universal-JPZV",
   "builds": [
     {
       "chipFamily": "ESP32",
