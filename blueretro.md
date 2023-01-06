@@ -14,7 +14,10 @@ he creado esta seccion para simplificar la programacion del modulo ademas[les he
 height="5">
 
 
-en esta pagina podras instalar la version [1.7.3](https://github.com/darthcloud/BlueRetro/releases/tag/v1.7.3) la cual es totalmente funcional con todos los proyectos de instalacion de blueretro de mi canal pero si quieres siempre estar con la version mas reciente del software te recomiendo [realizar este video tutorial ](https://youtu.be/wpAVl-TC-Xg) para actualizar de manera inalambrica y sin necesidad de cable usb, tu instalacion de **BLUERETRO** sin necesidad de conectarlo fisicamente al pc
+en esta pagina podras instalar la version [1.8.1](https://github.com/darthcloud/BlueRetro/releases/tag/v1.8.1) la cual es totalmente funcional con todos los proyectos de instalacion de blueretro de mi canal pero si quieres siempre estar con la version mas reciente del software te recomiendo [realizar este video tutorial ](https://youtu.be/wpAVl-TC-Xg) para actualizar de manera inalambrica y sin necesidad de cable usb, tu instalacion de **BLUERETRO** sin necesidad de conectarlo fisicamente al pc
+<img src="imagenes/line.png"
+height="5">
+recuerda que ahora la pagina para [descargar los archivos de blueretro es: ](https://darthcloud.itch.io/blueretro) siempre es recomendable actualizar tu blueretro
 
 <img src="imagenes/line.png"
 height="5">
