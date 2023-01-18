@@ -1,0 +1,16 @@
+{
+  "name": "bluco",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "improv": false,
+      "parts": [
+        { "path": "bootloader.bin", "offset": 4096 },
+        { "path": "partition-table.bin", "offset": 32768 },
+        { "path": "ota_data_initial.bin", "offset": 53248 },
+        { "path": "blucontrol-switch.bin", "offset": 65536 },
+        { "path": "blucontrol-generic.bin", "offset": 1114112 }
+      ]
+    }
+  ]
+}
