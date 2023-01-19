@@ -102,3 +102,22 @@ TIPO genesis / megadrive ONLINE totalmente compatible con todas las
 
 
 [CLIC AQUI PARA PROGRAMAR EL CONTROL genesis / megadrive  ONLINE y BLUERETRO! esp32 DIY ](genesis.md).
+
+
+<img src="imagenes/line.png"
+height="5">
+<img src="imagenes/line.png"
+height="5">
+#### CONTROL (ORIGINAL) NINTENDO 64 ONLINE PARA: NINTENDO SWITCH y BLUERETRO!
+
+<img src="imagenes/N64.png"
+height="200">
+
+
+En este nuevo proyecto crearemos un control (ORIGINAL)
+TIPO NINTENDO 64 ONLINE totalmente compatible con todas las 
+**NINTENDO SWITCH**  en la aplicacion oficial **NINTENDO ONLINE** ademas de doble payload para que tambien sea compatible con **BLUERETRO**
+
+
+
+[CLIC AQUI PARA PROGRAMAR EL CONTROL DE NINTENDO 64 PARA SWITCH y BLUERETRO! esp32 DIY ](n64.md).
