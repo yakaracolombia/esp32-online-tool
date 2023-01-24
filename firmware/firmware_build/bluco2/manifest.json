@@ -1,0 +1,13 @@
+{
+  "name": "bluco",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "improv": false,
+      "parts": [
+        { "path": "BluControl.bin", "offset": 0 },
+
+      ]
+    }
+  ]
+}
