@@ -1,14 +1,14 @@
 
 volver al [INICIO ](index.md).
 
-<img src="imagenes/N64.png"
+<img src="imagenes/gamecube.png"
 height="250">
 
 
 #### un poco de historia?
 Basado en una **Release no oficial** del [HOJA-LIB-ESP32](https://github.com/HandHeldLegend/HOJA-LIB-ESP32) proyecto original de [mitchellcairns](https://github.com/mitchellcairns) que nos permite utilizar nuestro **esp32 como un control de nintendo switch**, 
 
-ademas de una nueva implementacion de doble fimrware gracias a **JPZV** por su [Blu N64](https://github.com/JPZV/BluN64-ESP32) 
+ademas de una nueva implementacion de doble fimrware gracias a **JPZV** en esta proyecto de GAMECUBE usaremos como base el [Blu N64](https://github.com/JPZV/BluN64-ESP32) 
 
 Para cambiar entre payload de **BLUERETRO** y payload compatible con **NINTENDO SWITCH** Solo hay que mantener presionado **L + R + START** durante **10 segundos**
 
@@ -43,7 +43,7 @@ Este proyecto viene acompañado de un [video tutorial completo](https://youtu.be
 
 <img src="imagenes/line.png"
 height="5">
-<img src="imagenes/diagrama-n64.png"
+<img src="imagenes/diagrama-gamecube.png"
 height="300">
 los diagramas en alta definicion puedes descargarlos [desde este enlace](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYVVNazktb112lT7u4XjNIBYx66Q7ZrU1JEnDORoSN_dr5oF6VwJjzFlBq_9--vRPlnLuCCC0ZeR-Q2l0XOHA-yxPT9OLS_jmQW66kpnmaIo6EsBVNxMCNrLW_vvZOxvqQmX4dy-1L9-oVNl9p_gK25WHH4c-sWkrviOV0bqO5rNVDqb-AGMWPLQM97w/s3508/n64%20universal.png)
 
