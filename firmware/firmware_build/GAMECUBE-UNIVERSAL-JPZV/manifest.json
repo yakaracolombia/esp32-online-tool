@@ -1,5 +1,5 @@
 {
-  "name": "GAMECUBE-UNIVERSAL-JPZV - OTA",
+  "name": "GAMECUBE-UNIVERSAL-JPZV-OTA",
   "builds": [
     {
       "chipFamily": "ESP32",
