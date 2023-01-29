@@ -8,7 +8,7 @@ height="250">
 #### un poco de historia?
 Basado en una **Release no oficial** del [HOJA-LIB-ESP32](https://github.com/HandHeldLegend/HOJA-LIB-ESP32) proyecto original de [mitchellcairns](https://github.com/mitchellcairns) que nos permite utilizar nuestro **esp32 como un control de nintendo switch**, 
 
-ademas de una nueva implementacion de doble fimrware gracias a **JPZV** en esta proyecto de GAMECUBE usaremos una version modificada del [Blu N64](https://github.com/JPZV/BluN64-ESP32) 
+ademas de una nueva implementacion de doble fimrware gracias a **JPZV** en esta proyecto de GAMECUBE **usaremos una version modificada** del [Blu N64](https://github.com/JPZV/BluN64-ESP32) 
 
 Para cambiar entre payload de **BLUERETRO** y payload compatible con **NINTENDO SWITCH** Solo hay que mantener presionado **Z + START** durante **10 segundos**
 
