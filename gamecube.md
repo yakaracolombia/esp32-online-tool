@@ -10,7 +10,7 @@ Basado en una **Release no oficial** del [HOJA-LIB-ESP32](https://github.com/Han
 
 ademas de una nueva implementacion de doble fimrware gracias a **JPZV** en esta proyecto de GAMECUBE usaremos como base el [Blu N64](https://github.com/JPZV/BluN64-ESP32) 
 
-Para cambiar entre payload de **BLUERETRO** y payload compatible con **NINTENDO SWITCH** Solo hay que mantener presionado **L + R + START** durante **10 segundos**
+Para cambiar entre payload de **BLUERETRO** y payload compatible con **NINTENDO SWITCH** Solo hay que mantener presionado **Z + START** durante **10 segundos**
 
 y esto nos permitira crear a futuro todo tipo de controles, convirtiendo directamente nuestros controles clasicos de cable en unos inalambricos bluetooth, asi que dejen volar su imaginacion mientras hacemos nuestro primer proyecto de doble payload
 <img src="imagenes/line.png"
@@ -30,7 +30,7 @@ Para grabar tu firmware **"UNIVERSAL GAMECUBE JPVZ"**, asegurate de conectar tu 
 
 <img src="imagenes/line.png"
 height="5">
-Para cambiar entre payload de **BLUERETRO** y payload compatible con **NINTENDO SWITCH** Solo hay que mantener presionado **L + R + START** durante **10 segundos**
+Para cambiar entre payload de **BLUERETRO** y payload compatible con **NINTENDO SWITCH** Solo hay que mantener presionado **Z + START** durante **10 segundos**
 <img src="imagenes/line.png"
 height="5">
 
