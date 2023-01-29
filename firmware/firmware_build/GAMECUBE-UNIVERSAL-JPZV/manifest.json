@@ -1,5 +1,5 @@
 {
-  "name": "GAMECUBE-UNIVERSAL-JPZV",
+  "name": "GAMECUBE-UNIVERSAL-JPZV - OTA",
   "builds": [
     {
       "chipFamily": "ESP32",
@@ -8,6 +8,8 @@
         { "path": "bootloader.bin", "offset": 4096 },
         { "path": "partition-table.bin", "offset": 32768 },
         { "path": "ota_data_initial.bin", "offset": 53248 },
+        { "path": "blucontrol-ota.bin", "offset": 65536 },
+        { "path": "www.bin", "offset": 3211264 },
         { "path": "blucontrol-switch.bin", "offset": 1114112 },
         { "path": "blucontrol-generic.bin", "offset": 2162688 }
       ]
