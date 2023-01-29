@@ -49,7 +49,7 @@ recuerda que el control de arcade **compatible con blueretro** funciona como un 
 height="5">
 
 
-#### tienes dudas de como HACER ESTE PROJECTO?
+#### tienes dudas de como HACER ESTE PROYECTO?
 
 
 Este proyecto viene acompañado de un [video tutorial completo](https://youtu.be/o03lGDEhEgg) no olvides verlo .

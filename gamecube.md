@@ -35,7 +35,7 @@ Para cambiar entre payload de **BLUERETRO** y payload compatible con **NINTENDO 
 height="5">
 
 
-#### tienes dudas de como HACER ESTE PROJECTO?
+#### tienes dudas de como HACER ESTE PROYECTO?
 
 
 Este proyecto viene acompañado de un [video tutorial completo](https://youtu.be/PrA_Gp_z_Fw) no olvides verlo .

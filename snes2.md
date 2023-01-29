@@ -30,7 +30,7 @@ Basado en una **Release no oficial** del [HOJA-LIB-ESP32](https://github.com/Han
 height="5">
 
 
-#### tienes dudas de como HACER ESTE PROJECTO?
+#### tienes dudas de como HACER ESTE PROYECTO?
 
 
 Este proyecto viene acompañado de un [video tutorial completo](https://youtu.be/o03lGDEhEgg) no olvides verlo .
