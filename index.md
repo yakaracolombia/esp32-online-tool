@@ -121,3 +121,19 @@ TIPO NINTENDO 64 ONLINE totalmente compatible con todas las
 
 
 [CLIC AQUI PARA PROGRAMAR EL CONTROL DE NINTENDO 64 PARA SWITCH y BLUERETRO! esp32 DIY ](n64.md).
+
+<img src="imagenes/line.png"
+height="5">
+<img src="imagenes/line.png"
+height="5">
+#### CONTROL GAMECUBE PARA: NINTENDO SWITCH y BLUERETRO!
+
+<img src="imagenes/gamecube.png"
+height="200">
+
+
+En este nuevo proyecto convertiremos un control original de GAMECUBE en uno **inalambrico Bluetooth** totalmente compatible con todas las consolas **NINTENDO SWITCH** ademas de doble payload para que tambien sea compatible con **BLUERETRO**
+
+
+
+[CLIC AQUI PARA PROGRAMAR EL CONTROL DE GAMECUBE PARA SWITCH y BLUERETRO! esp32 DIY ](gamecube.md).
