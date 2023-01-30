@@ -38,12 +38,12 @@ height="5">
 #### tienes dudas de como HACER ESTE PROYECTO?
 
 
-Este proyecto viene acompañado de un [video tutorial completo](https://youtu.be/PrA_Gp_z_Fw) no olvides verlo .
+Este proyecto viene acompañado de un [video tutorial completo](https://youtu.be/I-eD3m9FG4s) no olvides verlo .
 
 
 <img src="imagenes/line.png"
 height="5">
 <img src="imagenes/diagrama-gamecube.png"
 height="300">
-los diagramas en alta definicion puedes descargarlos [desde este enlace](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYVVNazktb112lT7u4XjNIBYx66Q7ZrU1JEnDORoSN_dr5oF6VwJjzFlBq_9--vRPlnLuCCC0ZeR-Q2l0XOHA-yxPT9OLS_jmQW66kpnmaIo6EsBVNxMCNrLW_vvZOxvqQmX4dy-1L9-oVNl9p_gK25WHH4c-sWkrviOV0bqO5rNVDqb-AGMWPLQM97w/s3508/n64%20universal.png)
+los diagramas en alta definicion puedes descargarlos [desde este enlace](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKylCOfEuCNMamdnB_tEQCsjf1jxalkQ7Y7vUdWpUHzg_h8GbciP72zUyhO5UqCu-336UaOYc5vPYnHX4Kyl4IcjgienQZAh-y_xufkhG90SNSKUhcBbfjDZL7jyoJogpKO-0vm-V6_zorG3iA_oC5oxr1mVyiLdpr0iYY3bh_tJh6ChR6Po_zoiZNqQ/s3508/GAMECUBE%20UNIVERSAL.png)
 
