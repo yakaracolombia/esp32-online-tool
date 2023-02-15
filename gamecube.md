@@ -12,7 +12,22 @@ ademas de una nueva implementacion de doble fimrware gracias a **JPZV** en esta 
 
 Para cambiar entre payload de **BLUERETRO** y payload compatible con **NINTENDO SWITCH** Solo hay que mantener presionado **Z + START** durante **10 segundos**
 
-y 
+
+<img src="imagenes/line.png"
+height="5">
+
+### totalmente compatible con 
+
+-windows
+-linux
+-android
+-tv box
+-pandora
+-blueretro
+-steam deck
+-nintendo switch normal
+-nintendo switch lite
+-nintendo switch oled
 <img src="imagenes/line.png"
 height="5">
 
