@@ -14,7 +14,7 @@ he creado esta seccion para simplificar la programacion del modulo ademas[les he
 height="5">
 
 
-en esta pagina podras instalar la version [1.8.2](https://github.com/darthcloud/BlueRetro/releases/tag/v1.8.2) 
+en esta pagina podras instalar la version [1.8.3](https://github.com/darthcloud/BlueRetro/releases/tag/v1.8.3) 
 **NECESARIA PARA USAR EL CONTROL N64 BLUETOOTH** [que aprendimos a crear aqui:](n64.md)
 
 
