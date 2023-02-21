@@ -43,13 +43,12 @@ height="5">
 height="200">
 
 
-En este primer proyecto crearemos un control
-tipo arcade compatible con todos nuestros proyectos de 
-**BLUERETRO** Y un firmware alternativo para usar con cualquie **NINTENDO SWITCH**
+En este proyecto crearemos una palanca tipo ARCADE compatible con todas las 
+**NINTENDO SWITCH**  en la aplicacion oficial **NINTENDO ONLINE** ademas de doble payload para que tambien sea compatible con **BLUERETRO, android, pc, windows, mac y mucho mas**
 
 
 
-[CLIC AQUI PARA PROGRAMAR EL CONTROL TIPO ARCADE ESP32 ](arcade.md).
+[CLIC AQUI PARA PROGRAMAR EL CONTROL TIPO ARCADE ESP32 ](arcade2.md).
 
 <img src="imagenes/line.png"
 height="5">
@@ -116,7 +115,7 @@ height="200">
 
 En este nuevo proyecto crearemos un control (ORIGINAL)
 TIPO NINTENDO 64 ONLINE totalmente compatible con todas las 
-**NINTENDO SWITCH**  en la aplicacion oficial **NINTENDO ONLINE** ademas de doble payload para que tambien sea compatible con **BLUERETRO**
+**NINTENDO SWITCH**  en la aplicacion oficial **NINTENDO ONLINE** ademas de doble payload para que tambien sea compatible con **BLUERETRO, android, pc, windows, mac y mucho mas**
 
 
 
