@@ -27,7 +27,7 @@ para simplificar el proceso de instalacion sin necesidad de instalas apps en tu 
 
 
 
-[CLIC AQUI PARA PROGRAMAR TU ESP32 CON "BLUERETRO" ](blueretro.md).
+[CLIC AQUI PARA PROGRAMAR TU ESP32 CON "BLUERETRO"  1.8.3](blueretro.md).
 
 <img src="imagenes/line.png"
 height="5">
