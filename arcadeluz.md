@@ -55,14 +55,13 @@ height="5">
 #### tienes dudas de como HACER ESTE PROYECTO?
 
 
-Este proyecto viene acompañado de un [video tutorial completo](https://youtu.be/NLdcXWorapA) no olvides verlo .
+Este proyecto viene acompañado de un [video tutorial completo](https://youtu.be/5mQKpUOdqcE) no olvides verlo .
 
 
 <img src="imagenes/line.png"
 height="5">
 ### DIAGRAMAS UNIVERSAL PARA BLUERETRO Y NINTENDO SWICTH, solo cambia el firmware que le instalas
 
-<img src="imagenes/diagrama-arcade-luz-blueretro.jpg"
+<img src="imagenes/diagrama-arcade-blueretro.jpg"
 height="300">
-los diagramas en alta definicion puedes descargarlos [desde este enlace](https://www.mundoyakara.com/2022/07/hacer-control-arcade-bluetooth.html)
-
+los diagramas en alta definicion puedes descargarlos [desde este enlace](https://www.mundoyakara.com/2023/03/convierte-un-topper-en-una-palanca.html)
