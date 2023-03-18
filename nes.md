@@ -8,37 +8,43 @@ height="250">
 <img src="imagenes/line.png"
 height="5">
 
-### NES ONLINE esp32 DIY para **"NINTENDO SWITCH"** 
+### NES ONLINE esp32 DIY **UNIVERSAL** para **"NINTENDO SWITCH"** Y **BLUERETRO**
 <img src="imagenes/line.png"
 height="5">
-Para grabar tu firmware para **"GAMEPAD TIPO NES CON COMPATIBILIDAD CON NINTENDO SWITCH"**, asegurate de conectar tu ESP32 via USB y presiona el siguiente boton. recuerda usar **CHROME** para ver este boton
+ademas de una nueva implementacion de doble fimrware gracias a **JPZV** en esta proyecto de ARCADE **usaremos una version modificada** del [Blu N64](https://github.com/JPZV/BluN64-ESP32) que ha evolucionado hasta convertirse muy pronto en la solucion definitiva para crear todo tipo de controles bluetooth, convirtiendo directamente nuestros controles clasicos de cable en unos inalambricos asi que dejen volar su imaginacion mientras hacemos un control tipo **NES**
+
+Para cambiar entre payload de **BLUERETRO** y payload compatible con **NINTENDO SWITCH** Solo hay que mantener presionado **SELECT + START** durante **10 segundos**
+
+y esto nos permitira crear todo tipo de controles y tambien hacer nuestra propias palancas tipo arcade
+y lo mejor, 
+<img src="imagenes/line.png"
+height="5">
+### totalmente compatible con 
+
+-windows
+-linux
+-android
+-tv box
+-pandora
+-blueretro
+-steam deck
+-nintendo switch normal
+-nintendo switch lite
+-nintendo switch oled
+<img src="imagenes/line.png"
+height="5">
+
+<img src="imagenes/line.png"
+height="5">
+Para grabar tu firmware para **"GAMEPAD TIPO genesis / megadrive  CON COMPATIBILIDAD CON NINTENDO SWITCH"**, Y **BLUERETRO** asegurate de conectar tu ESP32 via USB y presiona el siguiente boton. recuerda usar **CHROME** para ver este boton
 
 
 <script type="module" src="install-button.js?module"></script>
-<esp-web-install-button manifest="firmware/firmware_build/nes-switch/manifest.json"></esp-web-install-button>
+<esp-web-install-button manifest="firmware/firmware_build/NES-UNIVERSAL-JPZV/manifest.json"></esp-web-install-button>
 
 <img src="imagenes/line.png"
 height="5">
 
-### informacion del firmware **"CONTROL NES ONLINE esp32 DIY"**
-Basado en una **Release no oficial** modificada y remapeada en su totalidad por mi del [ESP-IDF RetroBlue Bluetooth Gamepad AP](https://github.com/mitchellcairns/RetroBlue-ESP32) proyecto original de [mitchellcairns](https://github.com/mitchellcairns) que nos permite utilizar nuestro **esp32 como un control de nintendo switch**, que no hace uso de NIMBLE y por ese motivo aun no es compatible con blueretro, pero si con **nintendo swicth normal, nintendo switch lite y nintendo switch oled**,
-los botones y sus mapeos **son exactamente los mismos del diagrama**
-
-
-
-<img src="imagenes/line.png"
-height="5">
-
-
-#### tienes dudas de como HACER ESTE PROYECTO?
-
-
-Este proyecto viene acompañado de un [video tutorial completo](https://youtu.be/o03lGDEhEgg) no olvides verlo .
-
-
-
-<img src="imagenes/line.png"
-height="5">
 ### DIAGRAMAS UNIVERSAL PARA EL CONTROL NES ONLINE esp32 DIY
 
 <img src="imagenes/diagrama-nes.jpg"
