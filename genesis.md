@@ -13,7 +13,7 @@ height="5">
 
 <img src="imagenes/line.png"
 height="5">
-ademas de una nueva implementacion de doble fimrware gracias a **JPZV** en esta proyecto de ARCADE **usaremos una version modificada** del [Blu N64](https://github.com/JPZV/BluN64-ESP32) que ha evolucionado hasta convertirse muy pronto en la solucion definitiva para crear todo tipo de controles bluetooth, convirtiendo directamente nuestros controles clasicos de cable en unos inalambricos asi que dejen volar su imaginacion mientras hacemos un control tipo **ARCADE**
+ademas de una nueva implementacion de doble fimrware gracias a **JPZV** en esta proyecto de ARCADE **usaremos una version modificada** del [Blu N64](https://github.com/JPZV/BluN64-ESP32) que ha evolucionado hasta convertirse muy pronto en la solucion definitiva para crear todo tipo de controles bluetooth, convirtiendo directamente nuestros controles clasicos de cable en unos inalambricos asi que dejen volar su imaginacion mientras hacemos un control tipo **SEGA GENESIS**
 
 Para cambiar entre payload de **BLUERETRO** y payload compatible con **NINTENDO SWITCH** Solo hay que mantener presionado **START** durante **10 segundos**
 
