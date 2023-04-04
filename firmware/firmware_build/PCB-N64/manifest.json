@@ -1,5 +1,5 @@
 {
-  "name": "N64-PCB",
+  "name": "N64-PCB-2",
   "builds": [
     {
       "chipFamily": "ESP32",
