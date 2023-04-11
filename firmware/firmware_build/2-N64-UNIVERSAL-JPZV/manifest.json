@@ -1,0 +1,12 @@
+{
+  "name": "N64-UNIVERSAL-JPZV-2",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "improv": false,
+      "parts": [
+        { "path": "BluN64_Yakara.bin", "offset": 0 }
+      ]
+    }
+  ]
+}
