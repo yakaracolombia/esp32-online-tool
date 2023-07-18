@@ -33,6 +33,21 @@ height="5">
 <img src="imagenes/line.png"
 height="5">
 
+
+###  **"BLUERETRO"** para NES
+
+<script type="module" src="install-button.js?module"></script>
+<esp-web-install-button manifest="firmware/firmware_build/blueretro/nes/manifest.json"></esp-web-install-button>
+
+<img src="imagenes/line.png"
+height="5">
+###  **"BLUERETRO"** para SUPER NINTENDO
+
+<script type="module" src="install-button.js?module"></script>
+<esp-web-install-button manifest="firmware/firmware_build/blueretro/snes/manifest.json"></esp-web-install-button>
+
+<img src="imagenes/line.png"
+height="5">
 ###  **"BLUERETRO"** para Nintendo 64
 
 <script type="module" src="install-button.js?module"></script>
@@ -41,24 +56,18 @@ height="5">
 <img src="imagenes/line.png"
 height="5">
 
-###  **"BLUERETRO"** para SUPER NINTENDO
-
+###  **"BLUERETRO"** para GAMECUBE
 <script type="module" src="install-button.js?module"></script>
-<esp-web-install-button manifest="firmware/firmware_build/blueretro/snes/manifest.json"></esp-web-install-button>
+<esp-web-install-button manifest="firmware/firmware_build/blueretro/gamecube/manifest.json"></esp-web-install-button>
 
 <img src="imagenes/line.png"
 height="5">
+
+
 ###  **"BLUERETRO"** para DREAMCAST
 
 <script type="module" src="install-button.js?module"></script>
 <esp-web-install-button manifest="firmware/firmware_build/blueretro/dreamcast/manifest.json"></esp-web-install-button>
-
-<img src="imagenes/line.png"
-height="5">
-
-###  **"BLUERETRO"** para GAMECUBE
-<script type="module" src="install-button.js?module"></script>
-<esp-web-install-button manifest="firmware/firmware_build/blueretro/gamecube/manifest.json"></esp-web-install-button>
 
 <img src="imagenes/line.png"
 height="5">
