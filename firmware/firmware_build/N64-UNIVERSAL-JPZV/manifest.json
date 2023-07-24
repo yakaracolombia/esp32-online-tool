@@ -1,16 +1,17 @@
 {
   "name": "N64-UNIVERSAL-JPZV",
-  "builds": [
-    {
-      "chipFamily": "ESP32",
-      "improv": false,
-      "parts": [
-        { "path": "bootloader.bin", "offset": 4096 },
-        { "path": "partition-table.bin", "offset": 32768 },
-        { "path": "ota_data_initial.bin", "offset": 53248 },
-        { "path": "n64-control-switch.bin", "offset": 65536 },
-        { "path": "n64-control-blueretro.bin", "offset": 1114112 }
-      ]
-    }
-  ]
-}
+    "version": "2023.07.1",
+    "funding_url": "https://github.com/JPZV/BluN64-ESP32",
+    "new_install_prompt_erase": false,
+    "builds": [
+      {
+        "chipFamily": "ESP32",
+        "parts": [
+          {
+            "path": "BluN64_Yakara.bin",
+            "offset": 0
+          }
+        ]
+      }
+    ]
+  }
