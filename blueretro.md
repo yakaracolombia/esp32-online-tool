@@ -80,6 +80,15 @@ height="5">
 <img src="imagenes/line.png"
 height="5">
 
+###  **"BLUERETRO"** para WII-EXT "GAMEBOY DMG"
+
+<script type="module" src="install-button.js?module"></script>
+<esp-web-install-button manifest="firmware/firmware_build/blueretro/dmg/manifest.json"></esp-web-install-button>
+
+<img src="imagenes/line.png"
+height="5">
+
+
 <img src="imagenes/line.png"
 height="5">
 <img src="imagenes/line.png"
