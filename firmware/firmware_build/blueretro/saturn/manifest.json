@@ -1,5 +1,5 @@
 {
-  "name": "sega genesis / megadrive",
+  "name": "sega satrun",
   "builds": [
     {
       "chipFamily": "ESP32",
