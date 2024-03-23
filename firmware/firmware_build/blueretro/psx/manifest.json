@@ -1,13 +1,14 @@
 {
-  "name": "psx, ps1, ps2",
+  "name": "PS1-PS2-PSX",
   "builds": [
     {
       "chipFamily": "ESP32",
       "improv": false,
       "parts": [
         { "path": "bootloader.bin", "offset": 4096 },
-        { "path": "BlueRetro_playstation.bin", "offset": 65536 },
-        { "path": "partition-table.bin", "offset": 32768 }
+        { "path": "partition-table.bin", "offset": 32768 },
+        { "path": "ota_data_initial.bin", "offset": 53248 },
+        { "path": "BlueRetro.bin", "offset": 65536 }
       ]
     }
   ]
