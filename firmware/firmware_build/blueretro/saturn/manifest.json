@@ -1,13 +1,14 @@
 {
-  "name": "sega satrun",
+  "name": "SEGA SATURN",
   "builds": [
     {
       "chipFamily": "ESP32",
       "improv": false,
       "parts": [
         { "path": "bootloader.bin", "offset": 4096 },
-        { "path": "BlueRetro_genesis.bin", "offset": 65536 },
-        { "path": "partition-table.bin", "offset": 32768 }
+        { "path": "partition-table.bin", "offset": 32768 },
+        { "path": "ota_data_initial.bin", "offset": 53248 },
+        { "path": "BlueRetro_hw1_saturn.bin", "offset": 65536 }
       ]
     }
   ]
