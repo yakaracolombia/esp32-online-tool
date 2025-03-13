@@ -6,7 +6,7 @@
       "improv": true,
       "parts": [
         { "path": "bootloader.bin", "offset": 4096 },
-        { "path": "BlueRetro_n64.bin", "offset": 65536 },
+        { "path": "BlueRetro_hw1_n64.bin", "offset": 65536 },
         { "path": "partition-table.bin", "offset": 32768 }
       ]
     }
