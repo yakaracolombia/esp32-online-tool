@@ -1,0 +1,14 @@
+{
+  "name": "OGX-Mini-v1",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "improv": true,
+      "parts": [
+        { "path": "bootloader.bin", "offset": 4096 },
+        { "path": "OGX-Mini-v1.0.0a3-ESP32.bin", "offset": 65536 },
+        { "path": "partition-table.bin", "offset": 32768 }
+      ]
+    }
+  ]
+}

@@ -25,6 +25,17 @@ recuerda que ahora la pagina para [descargar los archivos de blueretro es: ](htt
 
 <img src="imagenes/line.png"
 height="5">
+###  **"BLUERETRO"** para OGX-MINI
+
+<script type="module" src="install-button.js?module"></script>
+<esp-web-install-button manifest="firmware/firmware_build/blueretro/ogx/manifest.json"></esp-web-install-button>
+
+<img src="imagenes/line.png"
+height="5">
+
+
+<img src="imagenes/line.png"
+height="5">
 ###  **"BLUERETRO"** para PSX, PS1, PS2
 
 <script type="module" src="install-button.js?module"></script>
