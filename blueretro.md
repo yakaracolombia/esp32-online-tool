@@ -30,13 +30,27 @@ height="5">
 <script type="module" src="install-button.js?module"></script>
 <esp-web-install-button manifest="firmware/firmware_build/blueretro/ogx/manifest.json"></esp-web-install-button>
 
-DESCARGA EL ARCHIVO PARA PROGRAMAR EL RP2040 ZERO DESDE AQUI: 
-
-<a href="firmware/GX-Mini-v1.0.0a3-PICO_ESP32.uf2" download="GX-Mini-v1.0.0a3-PICO_ESP32.uf2" style="display: inline-flex; align-items: center; background-color: #2c3e50; color: white; padding: 10px 20px; text-decoration: none; border-radius: 20px; font-family: sans-serif; font-weight: bold; border: 2px solid #34495e; transition: 0.3s;">
-  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 10px;"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
-  DESCARGAR OGX-Mini-v1.0.0a3-PICO_ESP32.UF2 (RP2040)
-</a>
-
+<div style="margin: 20px 0;">
+  <p style="font-weight: bold; margin-bottom: 10px;">DESCARGA EL ARCHIVO PARA PROGRAMAR EL RP2040 ZERO DESDE AQUÍ:</p>
+  
+  <a href="firmware/GX-Mini-v1.0.0a3-PICO_ESP32.uf2" 
+     download="GX-Mini-v1.0.0a3-PICO_ESP32.uf2" 
+     style="display: inline-block; 
+            background-color: #007bff; 
+            color: white; 
+            padding: 12px 25px; 
+            text-decoration: none; 
+            border-radius: 8px; 
+            font-family: Arial, sans-serif; 
+            font-size: 16px; 
+            font-weight: bold; 
+            text-align: center; 
+            border: none; 
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transition: background-color 0.3s;">
+     DESCARGAR ARCHIVO PARA RP2040 ZERO
+  </a>
+</div>
 <img src="imagenes/line.png"
 height="5">
 
