@@ -17,62 +17,70 @@ volver al [INICIO ](index.md).
     </div>
 </div>
 
-<!-- Cargamos la librería de forma global para evitar fallos de "import" -->
-<script src="https://adafruit.github.io/Adafruit_WebUSB_Services/uf2.js" type="module"></script>
+<script>
+// Función para cargar scripts de forma dinámica sin romper el botón
+function loadScript(src) {
+    return new Promise((resolve, reject) => {
+        const script = document.createElement('script');
+        script.src = src;
+        script.type = 'module';
+        script.onload = resolve;
+        script.onerror = reject;
+        document.head.appendChild(script);
+    });
+}
 
-<script type="module">
-    // Importamos específicamente de la librería cargada
-    import { UF2 } from "https://adafruit.github.io/Adafruit_WebUSB_Services/uf2.js";
+const btnFlash = document.getElementById('btn-flash');
+const statusText = document.getElementById('status-text');
+const progressBar = document.getElementById('progress-bar');
 
-    const btnFlash = document.getElementById('btn-flash');
-    const statusText = document.getElementById('status-text');
-    const progressBar = document.getElementById('progress-bar');
+btnFlash.onclick = async () => {
+    statusText.textContent = "Estado: Iniciando...";
+    statusText.style.color = "#aaa";
 
-    btnFlash.onclick = async () => {
-        try {
-            // Reiniciar interfaz
-            statusText.textContent = "Estado: Abriendo selector USB...";
-            statusText.style.color = "#aaa";
-            progressBar.style.width = "0%";
+    try {
+        // 1. Abrir el selector (Esto funcionará porque no hay imports previos que lo bloqueen)
+        const device = await navigator.usb.requestDevice({
+            filters: [{ vendorId: 0x2e8a }] 
+        });
 
-            // 1. SOLICITAR DISPOSITIVO (Esto debe abrir el selector sí o sí)
-            const device = await navigator.usb.requestDevice({
-                filters: [{ vendorId: 0x2e8a, productId: 0x0003 }] 
-            });
+        statusText.textContent = "Conectado: " + device.productName;
 
-            // 2. DESCARGAR FIRMWARE
-            statusText.textContent = "Estado: Descargando firmware...";
-            const response = await fetch('firmware/test.uf2'); 
-            if (!response.ok) throw new Error("No se encontró test.uf2 en la carpeta firmware/");
-            const buffer = await response.arrayBuffer();
+        // 2. Cargar la librería solo después de que el usuario dio permiso
+        statusText.textContent = "Estado: Cargando motor de grabado...";
+        const module = await import("https://adafruit.github.io/Adafruit_WebUSB_Services/uf2.js");
+        const UF2 = module.UF2;
 
-            // 3. CONECTAR Y GRABAR
-            const uf2 = new UF2(device);
-            await uf2.connect();
+        // 3. Descargar el firmware
+        statusText.textContent = "Estado: Descargando firmware...";
+        const response = await fetch('firmware/test.uf2');
+        if (!response.ok) throw new Error("No se encontró el archivo firmware/test.uf2");
+        const buffer = await response.arrayBuffer();
 
-            statusText.textContent = "Estado: Grabando...";
-            statusText.style.color = "#00cecb";
+        // 4. Iniciar grabado
+        const uf2 = new UF2(device);
+        await uf2.connect();
 
-            await uf2.flash(buffer, (current, total) => {
-                const percent = Math.round((current / total) * 100);
-                progressBar.style.width = percent + "%";
-                statusText.textContent = `Estado: Grabando ${percent}%`;
-            });
+        statusText.textContent = "Estado: Grabando...";
+        await uf2.flash(buffer, (current, total) => {
+            const percent = Math.round((current / total) * 100);
+            progressBar.style.width = percent + "%";
+            statusText.textContent = `Estado: Grabando ${percent}%`;
+        });
 
-            statusText.textContent = "¡GRABADO EXITOSO!";
-            statusText.style.color = "#00ff00";
-            alert("Proceso terminado. El RP2040 se reiniciará.");
+        statusText.textContent = "¡GRABADO EXITOSO!";
+        statusText.style.color = "#00ff00";
 
-        } catch (err) {
-            console.error(err);
-            statusText.style.color = "#ff4d4d";
-            if (err.name === "NotFoundError") {
-                statusText.textContent = "Estado: No seleccionaste dispositivo.";
-            } else {
-                statusText.textContent = "Error: " + err.message;
-            }
+    } catch (err) {
+        console.error(err);
+        statusText.style.color = "#ff4d4d";
+        if (err.name === "NotFoundError") {
+            statusText.textContent = "Estado: No seleccionaste dispositivo.";
+        } else {
+            statusText.textContent = "Error: " + err.message;
         }
-    };
+    }
+};
 </script>
 
 <img src="imagenes/line.png" height="5">
