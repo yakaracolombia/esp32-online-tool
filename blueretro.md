@@ -33,8 +33,8 @@ height="5">
 <div style="margin: 20px 0;">
   <p style="font-weight: bold; margin-bottom: 10px;">DESCARGA EL ARCHIVO PARA PROGRAMAR EL RP2040 ZERO DESDE AQUÍ:</p>
   
-  <a href="firmware/GX-Mini-v1.0.0a3-PICO_ESP32.uf2" 
-     download="GX-Mini-v1.0.0a3-PICO_ESP32.uf2" 
+  <a href="firmware/OGX-Mini-v1.0.0a3-PICO_ESP32.uf2" 
+     download="OGX-Mini-v1.0.0a3-PICO_ESP32.uf2" 
      style="display: inline-block; 
             background-color: #007bff; 
             color: white; 
@@ -48,7 +48,7 @@ height="5">
             border: none; 
             box-shadow: 0 4px 6px rgba(0,0,0,0.1);
             transition: background-color 0.3s;">
-     DESCARGAR ARCHIVO PARA RP2040 ZERO
+     GX-Mini-v1.0.0a3-PICO_ESP32.uf2
   </a>
 </div>
 <img src="imagenes/line.png"
