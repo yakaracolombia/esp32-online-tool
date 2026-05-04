@@ -2,80 +2,60 @@ volver al [INICIO ](index.md).
 
 <img src="imagenes/rp2040_mod.png" height="250">
 
-#### ¿Programación de RP2040 vía Web?
-Así como lo hacemos con el ESP32, ahora podemos aprovechar la tecnología **WebUSB** para grabar archivos `.uf2` directamente en nuestra Raspberry Pi Pico o cualquier placa basada en RP2040 sin necesidad de arrastrar archivos a carpetas.
+###  **GRABAR FIRMWARE RP2040**
 
-he creado esta sección para simplificar el proceso de instalación en nuevos proyectos basados en este microcontrolador.
-
-<img src="imagenes/line.png" height="5">
-
-### Instrucciones de Instalación:
-1. Pon tu RP2040 en modo **BOOTSEL** (conéctalo al PC mientras mantienes presionado el botón BOOTSEL).
-2. Haz clic en el botón **"CONECTAR Y GRABAR"** de abajo.
-3. Selecciona el dispositivo llamado **"RP2 Boot"** en la lista que abrirá el navegador.
-4. Espera a que la barra de progreso termine; el dispositivo se reiniciará solo con el nuevo firmware.
-
-<img src="imagenes/line.png" height="5">
-
-###  **GRABAR FIRMWARE DE PRUEBA** (test.uf2)
-
-<!-- Contenedor del Programador -->
 <div id="flash-container" style="background: #1e1e1e; padding: 20px; border-radius: 10px; text-align: center; color: white; border: 1px solid #333;">
-    <button id="connect-button" style="padding: 12px 25px; font-size: 16px; background-color: #00a8e8; color: white; border: none; border-radius: 5px; cursor: pointer; font-weight: bold;">
-        CONECTAR Y GRABAR
+    <button id="btn-conectar" style="padding: 12px 25px; font-size: 16px; background-color: #e84a5f; color: white; border: none; border-radius: 5px; cursor: pointer; font-weight: bold;">
+        CONECTAR RP2040
     </button>
-    <div id="status" style="margin-top: 15px; font-family: monospace; color: #aaa;">Estado: Esperando conexión...</div>
-    <div id="progress-bar" style="width: 0%; height: 10px; background-color: #00ff00; margin-top: 10px; border-radius: 5px; transition: width 0.3s;"></div>
+    <div id="status" style="margin-top: 15px; font-family: monospace; color: #aaa;">Estado: Esperando clic...</div>
 </div>
 
-<!-- Script del Programador basado en Adafruit WebUSB Services -->
-<script type="module">
-  import { UF2 } from "https://adafruit.github.io/Adafruit_WebUSB_Services/uf2.js";
+<script>
+(function() {
+    const btn = document.getElementById('btn-conectar');
+    const status = document.getElementById('status');
 
-  const connectButton = document.getElementById('connect-button');
-  const status = document.getElementById('status');
-  const progressBar = document.getElementById('progress-bar');
+    btn.onclick = async () => {
+        // 1. Diagnóstico inmediato
+        if (!window.isSecureContext) {
+            alert("ERROR: WebUSB solo funciona en sitios con HTTPS o en localhost.");
+            status.textContent = "Error: Sitio no seguro (requiere HTTPS)";
+            return;
+        }
 
-  connectButton.onclick = async () => {
-    try {
-      status.textContent = "Estado: Buscando dispositivo...";
-      
-      // 1. Cargar el archivo .uf2 (Asegúrate de que la ruta sea correcta)
-      const response = await fetch('firmware/test.uf2');
-      if (!response.ok) throw new Error("No se encontró el archivo test.uf2");
-      const buffer = await response.arrayBuffer();
+        if (!navigator.usb) {
+            alert("ERROR: Tu navegador no soporta o tiene bloqueado WebUSB.");
+            status.textContent = "Error: Navegador no compatible";
+            return;
+        }
 
-      // 2. Conectar vía WebUSB
-      const device = await navigator.usb.requestDevice({
-        filters: [{ vendorId: 0x2e8a, productId: 0x0003 }] // RP2040 Bootloader
-      });
+        try {
+            status.textContent = "Estado: Abriendo selector de dispositivos...";
+            
+            // 2. Abrir el selector (Esto DEBE abrir la ventana del navegador)
+            const device = await navigator.usb.requestDevice({
+                filters: [{ vendorId: 0x2e8a }] // ID de Raspberry Pi
+            });
 
-      const uf2 = new UF2(device);
-      await uf2.connect();
+            status.textContent = "Conectado a: " + device.productName;
+            status.style.color = "#00ff00";
 
-      status.textContent = "Estado: Grabando...";
-      
-      // 3. Flashear
-      await uf2.flash(buffer, (current, total) => {
-        const percent = Math.round((current / total) * 100);
-        progressBar.style.width = percent + "%";
-        status.textContent = `Estado: Grabando ${percent}%`;
-      });
+            // Aquí iría la lógica de envío del archivo .uf2
+            // Por ahora, si llegas aquí, ¡ya lograste que el navegador vea el RP2040!
+            alert("¡Dispositivo detectado! Conectado a " + device.productName);
 
-      status.textContent = "Estado: ¡Grabado con éxito!";
-      status.style.color = "#00ff00";
-      
-    } catch (err) {
-      console.error(err);
-      status.textContent = "Error: " + err.message;
-      status.style.color = "#ff4444";
-    }
-  };
+        } catch (err) {
+            console.error(err);
+            if (err.name === "NotFoundError") {
+                status.textContent = "Estado: No seleccionaste ningún dispositivo.";
+            } else {
+                status.textContent = "Error: " + err.message;
+            }
+            status.style.color = "#ff4444";
+        }
+    };
+})();
 </script>
-
-<img src="imagenes/line.png" height="5">
-
-#### ¿No detecta el dispositivo?
-Recuerda que para que el navegador vea el RP2040, este debe estar estrictamente en modo **BOOTSEL**. Si usas Windows, no necesitas drivers adicionales para el modo bootloader, pero asegúrate de usar un cable de datos de buena calidad.
 
 <img src="imagenes/line.png" height="5">
