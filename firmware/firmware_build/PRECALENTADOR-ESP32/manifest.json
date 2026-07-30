@@ -1,5 +1,5 @@
 {
-  "name": "PRECALENTADOR-ESP32",
+  "name": "PRECALENTADOR-ESP32 v1.0",
   "builds": [
     {
       "chipFamily": "ESP32",

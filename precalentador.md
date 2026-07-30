@@ -16,17 +16,27 @@ height="5">
 height="5">
 
 
-#### no estan todas las consolas?
-PUEDES VISITAR EL SIGUIENTE VIDEO:  para ver la instalacion, entender el funcionamiento y descargar el modelo 3d de este royecto
+
+
+
+  
+#### tienes dudas de como HACER ESTE PROYECTO?
+
+
+Este proyecto viene acompañado de un [video tutorial completo](https://youtu.be/5mQKpUOdqcE) no olvides verlo .
 
 
 <img src="imagenes/line.png"
 height="5">
 
+
+
 ###  **"DIAGRAMA"** MOD PUHUI T-8280
 
 <img src="imagenes/PRE-DIAGRAMA.png"
 height="250">
+
+descarga los diagramas en alta definicion [desde este enlace](https://www.mundoyakara.com/2023/03/convierte-un-topper-en-una-palanca.html)
 
 
 
