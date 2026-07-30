@@ -1,0 +1,14 @@
+{
+  "name": "PRECALENTADOR-ESP32",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "improv": false,
+      "parts": [
+        { "path": "bootloader.bin", "offset": 4096 },
+        { "path": "firmware.bin", "offset": 65536 },
+        { "path": "partitions.bin", "offset": 32768 }
+      ]
+    }
+  ]
+}
