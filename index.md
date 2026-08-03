@@ -39,11 +39,11 @@ height="200">
 
 
 Modificacion original para agregar ramplas y perfiles de temperatura a la base precalentadora 
-**PUHUI T8280**  y en teoria a cualquiera que use SSR relay de estado solido **USANDO ESP32** Con la posibilidad de modificar valores y cambiar ajustes, TAMBIEN SERA COMPATIBLE CON TODO TIPO DE HORNO, PARRILLA, RESISTENCIA ELECTRICA
+**PUHUI T8280**  y en teoria a cualquiera que use SSR relay de estado solido **USANDO ESP32** Con la posibilidad de modificar valores y cambiar ajustes, TAMBIEN SERA COMPATIBLE CON TODO TIPO DE HORNO, PARRILLA O RESISTENCIA ELECTRICA.
 
 
 
-[CLIC AQUI PARA PROGRAMAR EL firmware PRECALENTADOR ](precalentamod.md).
+[CLIC AQUI PARA PROGRAMAR EL firmware PRECALENTA-MOD ](precalentamod.md).
 
 <img src="imagenes/line.png"
 height="5">
