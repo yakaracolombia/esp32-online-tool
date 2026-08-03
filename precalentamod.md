@@ -23,7 +23,7 @@ height="5">
 #### Tienes dudas de como HACER ESTE PROYECTO?
 
 
-Este proyecto viene acompañado de un [video tutorial completo](https://youtu.be/5mQKpUOdqcE) no olvides verlo .
+Este proyecto viene acompañado de un [video tutorial completo](https://youtu.be/camuMDk8Lac) no olvides verlo .
 
 
 <img src="imagenes/line.png"
@@ -36,7 +36,7 @@ height="5">
 <img src="imagenes/PRECALENTA-MOD-DIAGRAMA.png"
 height="450">
 
-descarga los diagramas en alta definicion [desde este enlace](https://www.mundoyakara.com/2023/03/convierte-un-topper-en-una-palanca.html)
+descarga los diagramas en alta definicion [desde este enlace](https://www.mundoyakara.com/2026/08/precalenta-mod-modicacion-extrema-para.html)
 
 
 
