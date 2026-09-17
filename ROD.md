@@ -16,12 +16,10 @@ height="5">
 
 
 
-
+###  **"DIAGRAMA DE INSTALACION"** estara disponible en tu panel del curso
   
-#### Tienes dudas de como HACER ESTE PROYECTO?
 
-
-Este proyecto viene acompañado de un [video tutorial completo](https://youtu.be/camuMDk8Lac) no olvides verlo .
+DISPONIBLE EN TU PAGINA DEL CURSO [video tutorial completo](https://cursos-yakara.odoo.com/slides/slide/diagrama-18?fullscreen=1) no olvides verlo .
 
 
 <img src="imagenes/line.png"
@@ -29,7 +27,7 @@ height="5">
 
 
 
-###  **"DIAGRAMA"** MOD PUHUI T-8280
+
 
 <img src="imagenes/DIAGRAMA-ROD.png"
 height="450">
