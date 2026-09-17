@@ -19,7 +19,7 @@ height="5">
 ###  **"DIAGRAMA DE INSTALACION"** estara disponible en tu panel del curso
   
 
-DISPONIBLE EN TU PAGINA DEL CURSO [video tutorial completo](https://cursos-yakara.odoo.com/slides/slide/diagrama-18?fullscreen=1) no olvides verlo .
+DISPONIBLE EN TU PAGINA DEL CURSO [CLIC AQUI PARA VER EL DIAGRAMA](https://cursos-yakara.odoo.com/slides/slide/diagrama-18?fullscreen=1) no olvides verlo .
 
 
 <img src="imagenes/line.png"
